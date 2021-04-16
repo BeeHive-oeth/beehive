@@ -1,0 +1,1 @@
+ganache-cli -d -f https://rpc.oasiseth.org --chainId 69 -p 8545
